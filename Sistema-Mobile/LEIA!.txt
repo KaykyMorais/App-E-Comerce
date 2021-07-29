@@ -1,0 +1,4 @@
+Algumas funcionalidades que eu considerava essenciais como a barra de pesquisa não foram
+implementadas por que, por algum motivo elas demoravam muito para carregar, e creio que 
+não seja a minha internet(apesar de não ser das melhores), portanto,
+tive que deixá-las de fora. Espero que entenda!

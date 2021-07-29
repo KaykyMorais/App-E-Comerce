@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783343909931",
+    "project_id": "tcc-3deec",
+    "storage_bucket": "tcc-3deec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783343909931:android:8e671b6e4d6c114ed97e6e",
+        "android_client_info": {
+          "package_name": "com.example.pythongames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783343909931-vqs0j0bul5d7c2aqn0o6er328psoqlfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pythongames",
+            "certificate_hash": "b1a735791332ce8ac5cb2665b1cf509764a26884"
+          }
+        },
+        {
+          "client_id": "783343909931-ek5sjm83gcj8hsi8epog1a2bi6hp70kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdf70S_H8GryP_O37dv5HFsKipC3XS-TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783343909931-ek5sjm83gcj8hsi8epog1a2bi6hp70kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
